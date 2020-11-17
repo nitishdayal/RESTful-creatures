@@ -1,18 +1,1 @@
-[
-  {
-    "name":"Loch Ness Monster",
-    "img_url":"https://www.history.com/.image/t_share/MTU3ODc5MDg3MjQzNjAxMjI1/loch-ness-monster.jpg"
-  },
-  {
-    "name":"Big Foot",
-    "img_url":"https://res.cloudinary.com/simpleview/image/upload/crm/eurekaca/patterson.gimlin0-b5b6c02e5056a36_b5b6c19f-5056-a36a-096e6e95925c7427.jpg"
-  },
-  {
-    "name":"Batsquatch",
-    "img_url":"https://vignette.wikia.nocookie.net/cryptidz/images/c/c7/Batsquatch.jpg/revision/latest?cb=20100912164353"
-  },
-  {
-    "name":"Sharlie (Slimy Slim)",
-    "img_url":"https://vignette.wikia.nocookie.net/cryptidz/images/6/6c/Swimsharlie.jpg"
-  }
-]
+[{"name":"Loch Ness Monster","img_url":"https://www.history.com/.image/t_share/MTU3ODc5MDg3MjQzNjAxMjI1/loch-ness-monster.jpg"},{"name":"Big Foot","img_url":"https://res.cloudinary.com/simpleview/image/upload/crm/eurekaca/patterson.gimlin0-b5b6c02e5056a36_b5b6c19f-5056-a36a-096e6e95925c7427.jpg"},{"name":"Batsquatch","img_url":"https://vignette.wikia.nocookie.net/cryptidz/images/c/c7/Batsquatch.jpg/revision/latest?cb=20100912164353"},{"name":"Sharlie (Slimy Slim)","img_url":"https://vignette.wikia.nocookie.net/cryptidz/images/6/6c/Swimsharlie.jpg"},{"name":"Spongebob","img_url":"https://vignette.wikia.nocookie.net/simpsons/images/a/ae/SpongeBob_Better.png/revision/latest?cb=20190123071123"},{"name":"Patrick Star","img_url":"https://giantbomb1.cbsistatic.com/uploads/scale_medium/8/82962/2001131-309px_patrick_star.svg.png"}]
